@@ -1,0 +1,22 @@
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+    height: 30px;
+    padding-top: 10px;
+}
+nav {
+     
+    height: 40px;
+    background-color: grey;
+    display: flex;
+    gap: 40px;
+    padding-top: 20px;
+    padding-left: 30px;
+}
+/* .container {
+    /* width: 0vh; */
